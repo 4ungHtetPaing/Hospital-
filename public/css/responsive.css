@@ -1,0 +1,130 @@
+/*========================================================index responsive=============================================*/
+.
+@media (min-width:768px) and (max-width: 900px){
+	.pc{
+		display: none;
+	}
+	.mar_T120 {
+	    margin-top: 39px !important;
+	}
+	.tab_menu {
+	    margin: -46px 24%;
+	}
+	.tab_menu>li {
+	    width: 30px;
+	    height: 40px;
+	}
+	.tab_menu i {
+	    font-size: 23px;
+	    margin: 0px 0px 0px -14px;
+	}
+	.tab_menu span{
+		font-size: 10px;
+	}
+	#doctor .doctor_card > .card{
+		
+	    width: 48%;
+	   
+	}
+	.mr2 {
+    margin-right: 10px !important;
+	}
+	/*=======================/appoitment_buttom=========================*/
+	.appoitment_buttom {
+	    top: 17%;}
+
+
+}
+@media (min-width:580px) and (max-width: 768px){
+	.pc{
+		display: none;
+	}
+	.mar_T120 {
+	    margin-top: 39px !important;
+	}
+	#doctor .doctor_card > .card{
+		
+	    width: 47%;
+	   
+	}
+	.tab_menu {
+	    margin: -35px 20%;
+	}
+	.tab_menu>li {
+	    width: 23px;
+    height: 26px;
+	}
+	.tab_menu i {
+	    font-size: 15px;
+	    margin: 0px 0px 0px -14px;
+	}
+	.tab_menu span{
+		font-size: 10px;
+	}
+	#doctor .doctor_card > .card{
+		
+	    width: 47%;
+	   
+	}
+	/*=======================/appoitment_buttom=========================*/
+	.appoitment_buttom {
+	    top: 12%;}
+
+	.mr2 {
+    margin-right: 19px !important;
+	}
+	
+
+}
+
+@media (min-width:280px) and (max-width: 580px){
+	.pc{
+		display: none;
+	}
+	.mar_T120 {
+	    margin-top: 39px !important;
+	}
+		.tab_menu {
+		    margin: -35px 20%;
+		}
+		.tab_menu>li {
+		    width: 23px;
+	    height: 26px;
+	        margin: 0px 4px;
+		}
+		.tab_menu i {
+		    font-size: 15px;
+		    margin: 0px 0px 0px -14px;
+		}
+		.tab_menu span{
+			font-size: 7px;
+		}
+	#doctor .col-lg-3, #doctor .col-md-3 {
+	     width: auto; 
+	    margin: 5px;
+	}
+	#doctor .doctor_card > .card{
+		
+	    width: 98%;
+	   
+	}
+	#banner {
+    margin-top: 39px;}
+	.appoitment_buttom {
+	    right: 4%;
+	    position: absolute;
+	    top: 5%;
+	    width: 150px;
+	    border: none;
+	    height: 150px;
+	    background: #00800000;
+	    border-radius: 100%;
+	    text-align: center;
+	    padding-top: 9px;
+	}
+	.cbp-vm-view-grid ul li {
+	    margin: 5px 0px;}
+
+	}
+}
+
